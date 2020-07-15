@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+This is QuintGao，a rookie iOS developer。Now that you're here, why don't you pay attention！
+
+### About Me
+
+简书：[写代码的老菜鸟](https://www.jianshu.com/u/ba61bbfc87e8)
+掘进：[QuintGao](https://juejin.im/user/59e46e996fb9a04528458957)
+
 <!--
 **QuintGao/QuintGao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
