@@ -2,7 +2,7 @@
 
 This is QuintGao，a rookie iOS developer。Now that you're here, why don't you pay attention！
 
-## &$x270d; Blog & Writing
+## &#x270d; Blog & Writing
 
 简书：[写代码的老菜鸟](https://www.jianshu.com/u/ba61bbfc87e8)   
 掘金：[QuintGao](https://juejin.im/user/59e46e996fb9a04528458957)
@@ -17,12 +17,12 @@ This is QuintGao，a rookie iOS developer。Now that you're here, why don't you 
 </a>
 
 <a href="https://github.com/QuintGao/GKPageScrollView">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=GKPageScrollView&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/QuintGao/GKPhotoBrowser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=GKPhotoBrowser&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!--
