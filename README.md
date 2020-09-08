@@ -12,6 +12,7 @@ This is QuintGao，a rookie iOS developer。Now that you're here, why don't you 
 <a href="https://github.com/QuintGao/QuintGao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuintGao&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
 <a href="https://github.com/QuintGao/QuintGao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuintGao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="QuintGao's GitHub Stats" />
 </a>
@@ -24,6 +25,15 @@ This is QuintGao，a rookie iOS developer。Now that you're here, why don't you 
 <a href="https://github.com/QuintGao/GKPhotoBrowser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=GKPhotoBrowser&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
+<a href="https://github.com/QuintGao/GKWYMusic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=GKWYMusic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/QuintGao/GKDYVideo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=QuintGao&repo=GKDYVideo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 <!--
 **QuintGao/QuintGao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
