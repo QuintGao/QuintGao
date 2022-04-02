@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=QuintGao)
+
 This is QuintGao，a rookie iOS developer。Now that you're here, why don't you pay attention！
 
 ## &#x270d; Blog & Writing
