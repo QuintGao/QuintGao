@@ -6,7 +6,7 @@ This is QuintGao，a rookie iOS developer。Now that you're here, why don't you 
 
 ## &#x270d; Blog & Writing
 
-简书：[写代码的老菜鸟](https://www.jianshu.com/u/ba61bbfc87e8)   
+简书：[QuintGao](https://www.jianshu.com/u/ba61bbfc87e8)   
 掘金：[QuintGao](https://juejin.im/user/59e46e996fb9a04528458957)  
 
 ## &#x1f4c8; GitHub Stats
